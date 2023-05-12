@@ -1,7 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello;welcome+to+my+github+repository.+👋👋;)
 <!--------------------------------------------------------------------------------------------------------------------->
-<div align="center">
-<div align="center">
+<h2>contact</h2>
+
+<div>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
