@@ -1,10 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello;welcome+to+my+github+repository.+👋👋;)
 <!--------------------------------------------------------------------------------------------------------------------->
-<h2>contact</h2>
-
 <div>
+  <h1 align="center">Hi 👋, My name´s Mario Martinez</h1>
+  </div>
+<!---------------------------------------------------------------------------------------------------------------------->
+<h2 align="center">Connect with me:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-martinez-60548a253/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
 </div>
 
@@ -17,7 +21,8 @@
 
   
 <!----------------------------------------------------------------------------------------------------------------------->
-  
+<div>
+  <h2 align="left" >👨‍💻Stack:</h2>
   <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
@@ -33,4 +38,5 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="Express"> 
 <p/>
+  </div>
 <!----------------------------------------------------------------------------------------------------------------------->
